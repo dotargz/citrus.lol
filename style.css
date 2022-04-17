@@ -1,3 +1,29 @@
-.wow {
-  width: 100px;
+html, body {
+	background-color: #ffc100;
+	font-family: 'Montserrat', sans-serif;
+	color: white;
+	text-align: center;
+	height: 100%;
+  margin: 0;
+}
+
+.flex {
+  display: flex;
+  justify-content: center;
+	align-items: center;
+	height: 100%;
+}
+
+.button {
+  background-color: white;
+  border: none;
+  color: #ffc100;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+	font-family: 'Montserrat', sans-serif;
+  display: inline-block;
+  font-size: 16px;
+	cursor: pointer;
+	border-radius: 10px;
 }
