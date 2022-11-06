@@ -1,7 +1,7 @@
 html, body {
-	background-color: #ffc100;
+	background-color: #FFEFC7;
 	font-family: 'Montserrat', sans-serif;
-	color: white;
+	color: #FC952B;
 	text-align: center;
 	height: 100%;
   margin: 0;
@@ -16,9 +16,9 @@ html, body {
 }
 
 .button {
-  background-color: white;
+  background-color: #FC952B;
   border: none;
-  color: #ffc100;
+  color: #FFEFC7;
   padding: 15px 32px;
   text-align: center;
   text-decoration: none;
